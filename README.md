@@ -17,3 +17,13 @@ Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@v
 ## License
 
 This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+
+### Principios de Redux
+  > Primer Principio : `El estado es inmutable y no puede cambiarse`
+  > Segundo Principio : `La única forma de cambiar el estado es enviando(dispatch es el proceso de enviar una señál) una señal(action) a la tienda`
+### Reducer
+  > `Funcion pura. Recibe 2 parámetros [ current state, action]`
+### Actions
+  > `Objetos literales.`
